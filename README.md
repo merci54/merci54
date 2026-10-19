@@ -5,7 +5,7 @@
 ## Selected work
 
 <p align="center">
-  <a href="https://bebralka.com"><img src="./assets/card-bebralka.png" alt="Bebralka - flashcards like Quizlet. Next.js 16, Tailwind 4, Expo, Supabase, Postgres, Claude API" width="49%"></a>
+  <a href="https://bebralka.com"><img src="./assets/card-bebralka-v2.png" alt="Bebralka - flashcards like Quizlet. Next.js 16, Tailwind 4, Expo, Supabase, Claude API" width="49%"></a>
   <a href="https://relocantly.com"><img src="./assets/card-relocantly.png" alt="Relocantly - EU job digests with visa-sponsorship detection. Next.js 16, Tailwind 4, Supabase, Stripe, Claude API, Playwright, Apify" width="49%"></a>
 </p>
 <p align="center">
@@ -25,7 +25,7 @@
 ## Stack
 
 <p align="center">
-  <img src="./assets/stack-v2.png" alt="Frontend: TypeScript, JavaScript, React, Next.js, Redux, React Query, Tailwind CSS, SCSS, HTML. Backend: Node.js, Express.js, MongoDB, PostgreSQL. Tools: REST API, Docker, CI/CD, Postman" width="100%">
+  <img src="./assets/stack-v3.png" alt="Frontend: TypeScript, JavaScript, React, Next.js, Redux, React Query, Tailwind CSS, SCSS, HTML. Backend: Node.js, Express.js, MongoDB, SQLite. Tools: REST API, Docker, CI/CD, Postman" width="100%">
 </p>
 
 ## Contact
