@@ -25,7 +25,7 @@
 ## Stack
 
 <p align="center">
-  <img src="./assets/stack.png" alt="Frontend: TypeScript, JavaScript, React, Next.js, Redux, React Query, Tailwind CSS, SCSS, HTML. Backend: Node.js, Express.js, MongoDB, PostgreSQL. Tools: REST API, Docker, CI/CD, Postman" width="100%">
+  <img src="./assets/stack-v2.png" alt="Frontend: TypeScript, JavaScript, React, Next.js, Redux, React Query, Tailwind CSS, SCSS, HTML. Backend: Node.js, Express.js, MongoDB, PostgreSQL. Tools: REST API, Docker, CI/CD, Postman" width="100%">
 </p>
 
 ## Contact
